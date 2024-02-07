@@ -1,2 +1,2 @@
 # git-demo
-Learning git from Youtube by Shradha kapra
+Learning git from Youtube by Shradha kapra<br/>
